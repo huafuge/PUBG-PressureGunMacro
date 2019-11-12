@@ -1,0 +1,14 @@
+﻿  keycast.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: “typedef ”: 没有声明变量时忽略“”的左侧
+e:\workstation\project\yaqiang3.0\keycastow-master\keycast.cpp(335): warning C4018: “>”: 有符号/无符号不匹配
+e:\workstation\project\yaqiang3.0\keycastow-master\keycast.cpp(458): warning C4101: “tmp”: 未引用的局部变量
+e:\workstation\project\yaqiang3.0\keycastow-master\keycast.cpp(604): warning C4018: “>”: 有符号/无符号不匹配
+e:\workstation\project\yaqiang3.0\keycastow-master\keycast.cpp(1376): warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(121): note: 参见“wcscpy”的声明
+e:\workstation\project\yaqiang3.0\keycastow-master\keycast.cpp(1387): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+e:\workstation\project\yaqiang3.0\keycastow-master\keycast.cpp(1398): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+  keycastow.vcxproj -> E:\WorkStation\Project\yaqiang3.0\KeyCastOW-master\Debug\贼鸡霸3.3.exe
+  keycastow.vcxproj -> E:\WorkStation\Project\yaqiang3.0\KeyCastOW-master\Debug\贼鸡霸3.3.pdb (Full PDB)
